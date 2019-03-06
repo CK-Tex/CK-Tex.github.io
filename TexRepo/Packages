@@ -18,9 +18,9 @@ Essential: yes
 Required: yes
 Section: CK.Tex - Tools
 Filename: ./debs/cktexicon_1.1_iphoneos-arm.deb
-Size: 26716
-MD5sum: 27de3a93a5c08170c564d1c184fca36c
-SHA1: 5aa3bc0a30c71b85fc4a41161c79b98faf72a097
+Size: 26700
+MD5sum: c723d500578213c3850cb55f2cbd785c
+SHA1: 09acd586dbd72ae9673a5e7957438d8940236399
 Maintainer: CK丶Tex <https://CK-Tex.github.io>
 Architecture: iphoneos-arm
 Description: CK丶Tex <https://CK-Tex.github.io>
