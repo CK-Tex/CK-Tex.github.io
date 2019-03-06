@@ -5,7 +5,7 @@ Architecture: iphoneos-arm64
 Description: 多媒体工具中的战斗机。/NA multi-functional media player spoiling its users with its infinite possibility.
 Maintainer: Kodi.tv
 Author: Kodi.tv
-Section: CK.Tex-Multimedia
+Section: CK丶Tex - Multimedia
 Depends: firmware (>=11)
 Filename: ./debs/org.xbmc.kodi-ios_18.1-0_iphoneos-arm64.deb
 Size: 55119368
@@ -16,7 +16,7 @@ Package: cktexicon
 Version: 1.1
 Essential: yes
 Priority: required
-Section: CK.Tex-Tools
+Section: CK丶Tex - Tools
 Filename: ./debs/cktexicon_1.1_iphoneos-arm.deb
 Size: 26760
 MD5sum: d95e6c1516b08b67115db8dd32eaf141
