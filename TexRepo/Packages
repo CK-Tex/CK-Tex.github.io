@@ -14,7 +14,8 @@ SHA1: 9915964021e7d31ce34d7842ad1246bf373e124e
 
 Package: cktexicon
 Version: 1.1
-Priority: required
+Essential: yes
+Required: yes
 Section: CK丶Tex - Tools
 Filename: ./debs/cktexicon_1.1_iphoneos-arm.deb
 Size: 26716
