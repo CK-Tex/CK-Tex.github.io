@@ -1,0 +1,13 @@
+Package: org.xbmc.kodi
+Name: Kodi
+Version: 18.1-0
+Architecture: iphoneos-arm64
+Description: 多媒体工具中的战斗机。/NA multi-functional media player spoiling its users with its infinite possibility.
+Maintainer: Kodi.tv
+Author: Kodi.tv
+Section: 多媒体 (Multimedia)
+Depends: firmware (>=11)
+Filename: ./debs/org.xbmc.kodi-ios_18.1-0_iphoneos-arm64.deb
+Size: 55119368
+MD5sum: 68880cb600118cba1a8baf90d3594029
+SHA1: 9915964021e7d31ce34d7842ad1246bf373e124e
