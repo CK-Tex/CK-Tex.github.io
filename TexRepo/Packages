@@ -1,5 +1,5 @@
-Package: org.xbmc.kodi
-Name: Kodi
+Package: org.xbmc.kodi-ios64
+Name: Kodi (64-bit)
 Version: 18.1-0
 Architecture: iphoneos-arm
 Description: 多媒体工具中的战斗机。 / A multi-functional media player spoiling its users with its infinite possibility.
