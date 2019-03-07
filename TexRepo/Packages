@@ -34,11 +34,15 @@ Name: NudeKeys (iOS 12)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: 一款可以去除键盘按键边框的插件。 / The tweak can remove the frames surrounding the keys of stock keyboard.
-Maintainer: Orangebananaspy
-Author: Orangebananaspy
+Maintainer: Orangebananaspy <admin@orangebananaspy.com>
+Author: Orangebananaspy <support@orangebananaspy.com>
+dev: orangebananaspy
 Section: CK丶Tex_-_Tweaks
-Depends: firmware (>=12)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.nudekeys
 Filename: ./debs/com.orangebananaspy.nudekeysios12_1.0_iphoneos-arm.deb
+Tag: purpose::extension, compatible::ios12
+Installed-Size: 18224
 Size: 9436562
 MD5sum: 5ecfb4335e49c536e878ca13d60f1498
 SHA1: 9ecf3f915711327e3c65faf6d81e72723169db6b
