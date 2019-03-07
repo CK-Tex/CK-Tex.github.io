@@ -37,7 +37,7 @@ Description: 一款可以去除键盘按键边框的插件。 / The tweak can re
 Maintainer: Orangebananaspy
 Author: Orangebananaspy
 Section: CK丶Tex_-_Tweaks
-Depends: firmware (=12)
+Depends: firmware (>=12)
 Filename: ./debs/com.orangebananaspy.nudekeysios12_1.0_iphoneos-arm.deb
 Size: 9436562
 MD5sum: 5ecfb4335e49c536e878ca13d60f1498
