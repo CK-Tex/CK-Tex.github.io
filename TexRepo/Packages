@@ -47,3 +47,19 @@ Size: 9436562
 MD5sum: 5ecfb4335e49c536e878ca13d60f1498
 SHA1: 9ecf3f915711327e3c65faf6d81e72723169db6b
 SHA256: ffc3eaea5126d7e4df4be186afe060c8543cfa4feb15358c8a82f8bbd2603a2f
+
+Package: com.auahdark.livesim2
+Version: 3.0.3
+Section: CK丶Tex_-_Games
+Maintainer: AuahDark <https://github.com/MikuAuahDark/>, RayFirefist <https://twitter.com/RayFirefist/>
+Architecture: iphoneos-arm
+Description: 一款高质量的LoveLive模拟器，deb包修改自RayFirefist编译的3.0.3版ipa。最低系统版本被降至11.0 / A high quality LoveLive simulator. DEBIAN version was modified from the IPA file (ver.3.0.3) compiled by RayFirefist. Min OS Ver. was lowered to iOS 11.0.
+Name: LiveSim 2
+Firename: ./debs/com.auahdark.livesim2_3.0.3_iphoneos-arm64.deb
+Depends: firmware (>= 11.0)
+Author: AuahDark <https://github.com/MikuAuahDark/>
+Homepage: https://github.com/MikuAuahDark/
+Size: 29332092
+MD5Sum: 3267ab17a42831dacfe818f68a5d940b
+SHA1: 784ed3bdec5d4bc7aa979a5edda307f05211ea03
+SHA256: 03b7b683e201db08b8d186709d64f13838db92204c4a5f28fb148cf6ff891fbf
